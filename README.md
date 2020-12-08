@@ -12,7 +12,7 @@ I am Front End Developer taking a Full Stack Development bootcamp. I've develope
 - 🧠 I'm currently working on Kimble, the leading PSA application, which is on Salesforce.
 - 👀 I’m currently learning JavaScript (Express, React, Node) and eventually MongoDB for a complete MERN stack.
 - ✔️ Big fan of accessibility, user-experience and addictively educational websites.u
-- ☎️ How to reach me: codefolio.work@gmail.com or Twitter [@jonamichahammo](twitter.com/jonamichahammo)
+- ☎️ How to reach me: codefolio.work@gmail.com or Twitter [@jonamichahammo](https://twitter.com/jonamichahammo)
 - ⚡ Fun facts: I've done two cage fights, featured at a poetry festival, and testified at multiple government public hearings.
 - ⚖️ I'm a big believer in ethics. Let's use our technical abilities to build each other up, not tear each other down!
 
