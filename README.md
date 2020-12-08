@@ -2,7 +2,7 @@
 
 # Welcome! My name is Jonathan.
 
-I am Front End Developer taking a Full Stack Development bootcamp. I've developed [Jonnovative](jonnovative.biz), a profile website that helped me learn HTML, CSS, JavaScript and Responsive Web Design. Other websites I've designed include [Lois Lane Ins](loislaneins.com) for an Insurance Agency, and [Tasty Danish](tastydanish.net) for a graphic artist and BJJ practitioner. I currently work as a Support Analyst at Kimble.
+I am Front End Developer taking a Full Stack Development bootcamp. I've developed [Jonnovative](https://jonnovative.biz), a profile website that helped me learn HTML, CSS, JavaScript and Responsive Web Design. Other websites I've designed include [Lois Lane Ins](https://loislaneins.com) for an Insurance Agency, and [Tasty Danish](https://tastydanish.net) for a graphic artist and BJJ practitioner. I currently work as a Support Analyst at Kimble.
 <div width="100%" height="200px" align="center">
 ♜♞♝♚♛♝♞♜
   
