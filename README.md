@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 -->
 
 # Hello, and welcome to my GitHub Profile!
-<img src="https://raw.githubusercontent.com/Pythonidaer/pythonidaer/main/images/githubprofile.png" alt="Jonathan Hammond's website is jonnovative.biz" style="max-width: 100%">
+<img src="https://raw.githubusercontent.com/Pythonidaer/pythonidaer/main/images/jonnovative.png" alt="Jonathan Hammond's website is jonnovative.biz" style="max-width: 100%">
 
