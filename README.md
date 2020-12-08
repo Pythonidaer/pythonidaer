@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Pythonidaer/pythonidaer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hello, and welcome to my GitHub Profile!
+
+<img src="https://raw.githubusercontent.com/Pythonidaer/pythonidaer/main/images/githubprofile.png" alt="Jonathan Hammond's website is jonnovative.biz" style="max-width: 100%">
