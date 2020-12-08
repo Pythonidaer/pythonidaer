@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 
 # Hello, and welcome to my GitHub Profile!
 
-<img src="https://raw.githubusercontent.com/Pythonidaer/pythonidaer/main/images/jonnovative.png" alt="Jonathan Hammond's website is jonnovative.biz" align="center" >
+<img src="https://raw.githubusercontent.com/Pythonidaer/pythonidaer/main/images/jonnovative.png" alt="Jonathan Hammond's website is jonnovative.biz" align="center" width="100%" >
 
 
