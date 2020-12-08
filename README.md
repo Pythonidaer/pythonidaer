@@ -1,6 +1,6 @@
 # Welcome! My name is Jonathan.
 <img src="https://raw.githubusercontent.com/Pythonidaer/pythonidaer/main/images/jonnovative.png" alt="Jonathan Hammond's website is jonnovative.biz" align="center" width="100%" >
-<div width="100%" height="200px" align="center">
+<div width="100%" height="400px" align="center">
 ♜♞♝♚♛♝♞♜
   
 ♟♟♟♟♟♟♟♟
