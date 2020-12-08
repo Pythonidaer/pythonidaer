@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 # Hello, and welcome to my GitHub Profile!
-<div style="background: red;">
-<img src="https://raw.githubusercontent.com/Pythonidaer/pythonidaer/main/images/jonnovative.png" alt="Jonathan Hammond's website is jonnovative.biz" style="min-width: 100%; text-align: center;">
-  </div>
+
+<img src="https://raw.githubusercontent.com/Pythonidaer/pythonidaer/main/images/jonnovative.png" alt="Jonathan Hammond's website is jonnovative.biz" align="center" >
+
 
